@@ -1,0 +1,15 @@
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\bin\Debug\Sokoban.exe.config
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\bin\Debug\Sokoban.exe
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\bin\Debug\Sokoban.pdb
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\Sokoban.csprojAssemblyReference.cache
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\MainWindow.g.cs
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\App.g.cs
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\Sokoban_MarkupCompile.cache
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\Sokoban_MarkupCompile.lref
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\MainWindow.baml
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\Sokoban.g.resources
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\Sokoban.Properties.Resources.resources
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.GenerateResource.cache
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.CoreCompileInputs.cache
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\Sokoban.exe
+C:\Users\arinfo\source\repos\Sokoban\Sokoban\obj\Debug\Sokoban.pdb
